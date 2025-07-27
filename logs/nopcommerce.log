@@ -1,0 +1,285 @@
+2025-07-24 13:40:28 - INFO - root - ***************Test Admin Login****************
+2025-07-24 13:40:28 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 13:40:34 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 13:40:36 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 13:40:42 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 13:40:44 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 13:40:45 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 13:42:02 - INFO - root - ***************Test Admin Login****************
+2025-07-24 13:42:02 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 13:42:04 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 13:42:06 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 13:42:11 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 13:42:12 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 13:42:14 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 14:12:39 - INFO - root - ***************Test Admin Login****************
+2025-07-24 14:12:39 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 14:12:41 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 14:12:42 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 14:12:47 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 14:12:48 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 14:12:50 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 14:14:56 - INFO - root - ***************Test Admin Login****************
+2025-07-24 14:14:56 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 14:14:59 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 14:15:07 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 14:15:15 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 14:15:23 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 14:15:25 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 14:15:42 - INFO - root - ***************Test Admin Login****************
+2025-07-24 14:15:42 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 14:15:43 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 14:15:45 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 14:15:53 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 14:15:55 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 14:15:59 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 14:16:31 - INFO - root - ***************Test Admin Login****************
+2025-07-24 14:16:31 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 14:16:33 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 14:16:40 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 14:16:48 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 14:16:55 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 14:16:57 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 14:20:47 - INFO - root - ***************Test Admin Login****************
+2025-07-24 14:20:47 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 14:20:48 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 14:20:50 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 14:20:53 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 14:20:55 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 14:20:57 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 16:52:23 - INFO - root - ***************Test Admin Login****************
+2025-07-24 16:52:23 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 16:52:23 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 16:52:25 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 16:52:29 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 16:52:30 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 16:52:32 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 16:53:11 - INFO - root - ***************Test Admin Login****************
+2025-07-24 16:53:11 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 16:53:12 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 16:53:13 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 16:53:13 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 16:53:16 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 16:53:17 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 17:01:04 - INFO - root - ***************Test Admin Login****************
+2025-07-24 17:01:04 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 17:01:05 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 17:01:06 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 17:01:11 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 17:01:12 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 17:01:14 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 17:12:06 - INFO - root - ***************Test Admin Login****************
+2025-07-24 17:12:06 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 17:12:07 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 17:12:09 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 17:12:12 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 17:12:14 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 17:12:16 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 18:18:09 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:19:05 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:25:04 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:28:17 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:33:22 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:38:37 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:40:47 - INFO - root - ***************Test Admin Login****************
+2025-07-24 18:40:47 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 18:40:48 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 18:40:49 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 18:40:55 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 18:40:56 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 18:40:58 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 18:41:40 - INFO - root - ***************Test Admin Login****************
+2025-07-24 18:41:40 - INFO - root - ***************Admin Page Title Verification****************
+2025-07-24 18:41:41 - INFO - root - ***************test_title_verification title matched****************
+2025-07-24 18:41:42 - INFO - root - ***************Valid Admin Login****************
+2025-07-24 18:41:46 - INFO - root - ***************test_valid_login successful***************
+2025-07-24 18:41:52 - INFO - root - ***************Invalid Admin Login****************
+2025-07-24 18:41:54 - INFO - root - ***************test_invalid_login successful***************
+2025-07-24 18:42:46 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:47:55 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:49:56 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:50:31 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:50:38 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:51:07 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:51:15 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:54:17 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:54:25 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:54:32 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:54:38 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:54:38 - INFO - root - Admin Login Data Driven Test is Passed
+2025-07-24 18:55:40 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:55:48 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:55:55 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:56:01 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:56:01 - INFO - root - Admin Login Data Driven Test is Passed
+2025-07-24 18:56:33 - INFO - root - ***************Valid Admin Login With Data Driven****************
+2025-07-24 18:56:41 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:56:53 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:57:04 - INFO - root - ***************data driven test_valid_login successful***************
+2025-07-24 18:57:09 - INFO - root - Admin Login Data Driven Test is Passed
+2025-07-25 18:11:18 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:11:23 - INFO - root - ********************Login Successful************************
+2025-07-25 18:11:23 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:15:42 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:15:44 - INFO - root - ********************Login Successful************************
+2025-07-25 18:15:44 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:15:51 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:20:48 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:20:50 - INFO - root - ********************Login Successful************************
+2025-07-25 18:20:50 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:20:57 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:22:51 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:22:52 - INFO - root - ********************Login Successful************************
+2025-07-25 18:22:52 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:22:56 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:25:54 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:25:56 - INFO - root - ********************Login Successful************************
+2025-07-25 18:25:56 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:25:59 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:32:03 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:32:06 - INFO - root - ********************Login Successful************************
+2025-07-25 18:32:06 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:32:08 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:37:19 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:37:27 - INFO - root - ********************Login Successful************************
+2025-07-25 18:37:27 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:37:29 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:39:28 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:39:30 - INFO - root - ********************Login Successful************************
+2025-07-25 18:39:30 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:39:33 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:40:20 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:40:23 - INFO - root - ********************Login Successful************************
+2025-07-25 18:40:23 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:40:25 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:41:05 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:41:07 - INFO - root - ********************Login Successful************************
+2025-07-25 18:41:07 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:41:10 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:41:59 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:42:02 - INFO - root - ********************Login Successful************************
+2025-07-25 18:42:02 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:42:04 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:45:26 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:45:31 - INFO - root - ********************Login Successful************************
+2025-07-25 18:45:31 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:45:34 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:46:42 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:46:44 - INFO - root - ********************Login Successful************************
+2025-07-25 18:46:44 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:46:47 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:48:39 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:48:42 - INFO - root - ********************Login Successful************************
+2025-07-25 18:48:42 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:48:44 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:52:58 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:53:00 - INFO - root - ********************Login Successful************************
+2025-07-25 18:53:00 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:53:03 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:55:29 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:55:33 - INFO - root - ********************Login Successful************************
+2025-07-25 18:55:33 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:55:35 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:57:43 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:57:47 - INFO - root - ********************Login Successful************************
+2025-07-25 18:57:47 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:57:49 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:58:28 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:58:28 - INFO - root - ********************Login Successful************************
+2025-07-25 18:58:28 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:58:33 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 18:59:42 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 18:59:44 - INFO - root - ********************Login Successful************************
+2025-07-25 18:59:44 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 18:59:47 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 19:00:00 - INFO - root - ****************Test Add New Customer Passed*****************
+2025-07-25 19:03:51 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 19:03:54 - INFO - root - ********************Login Successful************************
+2025-07-25 19:03:54 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 19:03:57 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:30:28 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 21:30:31 - INFO - root - ********************Login Successful************************
+2025-07-25 21:30:31 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 21:30:35 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:31:34 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 21:31:37 - INFO - root - ********************Login Successful************************
+2025-07-25 21:31:37 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 21:31:40 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:32:43 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 21:32:46 - INFO - root - ********************Login Successful************************
+2025-07-25 21:32:46 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 21:32:49 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:35:38 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 21:35:48 - INFO - root - ********************Login Successful************************
+2025-07-25 21:35:48 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 21:35:51 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:36:11 - INFO - root - ****************Test Add New Customer Passed*****************
+2025-07-25 21:38:47 - INFO - root - ****************Test Add New Customer******************
+2025-07-25 21:38:53 - INFO - root - ********************Login Successful************************
+2025-07-25 21:38:53 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-25 21:38:56 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-25 21:39:11 - INFO - root - ****************Test Add New Customer Passed*****************
+2025-07-26 13:40:47 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:40:53 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:40:53 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:41:58 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:42:01 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:42:01 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:42:04 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:44:59 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:45:02 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:45:02 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:45:04 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:45:07 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 13:47:26 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:47:31 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:47:31 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:47:33 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:47:37 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 13:52:44 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:52:47 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:52:47 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:52:48 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:52:52 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 13:52:53 - INFO - root - ********************Start Testing Search Customer By Name*************************
+2025-07-26 13:53:16 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:53:20 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:53:20 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:53:22 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:53:26 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 13:53:26 - INFO - root - ********************Start Testing Search Customer By Name*************************
+2025-07-26 13:53:30 - INFO - root - ********************Test Search Customer By Name Passed*************************
+2025-07-26 13:54:46 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 13:54:49 - INFO - root - ********************Login Successful*************************
+2025-07-26 13:54:49 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 13:54:51 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 13:54:55 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 13:54:55 - INFO - root - ********************Start Testing Search Customer By Name*************************
+2025-07-26 13:54:59 - INFO - root - ********************Test Search Customer By Name Passed*************************
+2025-07-26 14:00:28 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:00:29 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:00:31 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:01:28 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:01:32 - INFO - root - ********************Login Successful*************************
+2025-07-26 14:01:32 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 14:01:34 - INFO - root - ********************Start Testing Search Customer By Email*************************
+2025-07-26 14:01:37 - INFO - root - ********************Test Search Customer By Email Passed*************************
+2025-07-26 14:01:39 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:01:42 - INFO - root - ********************Login Successful*************************
+2025-07-26 14:01:42 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 14:01:44 - INFO - root - ********************Start Testing Search Customer By Name*************************
+2025-07-26 14:01:48 - INFO - root - ********************Test Search Customer By Name Passed*************************
+2025-07-26 14:01:49 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-26 14:01:52 - INFO - root - ********************Login Successful*************************
+2025-07-26 14:01:52 - INFO - root - ********************Navigating to Customer Page*************************
+2025-07-26 14:01:55 - INFO - root - ********************Start Testing Search Customer By Company*************************
+2025-07-26 14:01:59 - INFO - root - ********************Test Search Customer By Company Passed*************************
+2025-07-27 18:16:17 - INFO - root - ****************Test Add New Customer******************
+2025-07-27 18:16:40 - INFO - root - ********************Login Successful************************
+2025-07-27 18:16:40 - INFO - root - ********************Start Testing Add New Customer************************
+2025-07-27 18:16:45 - INFO - root - ********************Start Form Fillup*****************************
+2025-07-27 18:16:57 - INFO - root - ***************Valid Admin Login****************
+2025-07-27 18:17:18 - INFO - root - ***************test_valid_login successful***************
+2025-07-27 18:17:22 - INFO - root - ****************Test Search Customer By Email*************************
+2025-07-27 18:17:32 - INFO - root - ********************Login Successful*************************
+2025-07-27 18:17:32 - INFO - root - ********************Navigating to Customer Page*************************
