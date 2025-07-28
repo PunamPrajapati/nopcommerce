@@ -15,9 +15,9 @@ class TestSearchCustomer:
     username = ReadConfig.get_username()
     password = ReadConfig.get_password()
     logger = LogMaker.create_log()
-    input_email_for_search = "Ttysp@gmail.com"
-    input_first_name_for_search = "RAM"
-    input_last_name_for_search = "Gannoj"
+    input_email_for_search = "steve_gates@nopCommerce.com"
+    input_first_name_for_search = "Arthur"
+    input_last_name_for_search = "Holmes"
     input_company_name_for_search = "busyQA"
 
     def search_customer_setup(self, setup):
