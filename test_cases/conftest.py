@@ -36,10 +36,3 @@ def pytest_metadata(metadata):
     metadata.pop('JAVA_HOME', None)
     metadata.pop('Plugins', None)
 
-# Note: to run file on different browser:
-# pytest -s -v .\test_cases\test_admin_login.py --browser firefox
-# Note: run multiple test parallely
-# pytest -s -v .\test_cases\test_admin_login.py --browser firefox -n 3
-# Note: create html reports
-# pytest -s -v --html reports/report.html .\test_cases\test_admin_login.py
-# pytest -s -v -m "sanity" --html reports/report.html
